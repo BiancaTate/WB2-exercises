@@ -8,10 +8,10 @@ let b = "55"
 let c = "402 Stevens"
 let d = "Number 5 "
 
-a=parseInt(a)
-b=parseInt(b)
-c=parseInt(c)
-d=parseInt(d)
+a=parseFloat(a)
+b=parseFloat(b)
+c=parseFloat(c)
+d=parseFloat(d)
 
 console.log(a)
 console.log(b)
